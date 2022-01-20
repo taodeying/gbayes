@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gbayes"
-version = "0.1.0"
+version = "0.2.0"
 description = "GBayes: a minimalistic Computational Framework for Generalized Bayesian Inference."
 authors = ["Tomas A Olego"]
 license = "MIT"
