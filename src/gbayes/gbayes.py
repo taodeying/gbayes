@@ -5,7 +5,7 @@ def fn_gbayes() -> str:
 
     Args:
         
-        
+      
     Returns:
         The return value. "Hello World".
     
