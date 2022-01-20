@@ -1,0 +1,6 @@
+:py:mod:`gbayes.gbayes`
+=======================
+
+.. py:module:: gbayes.gbayes
+
+

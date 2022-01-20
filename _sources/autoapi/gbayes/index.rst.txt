@@ -1,0 +1,23 @@
+:py:mod:`gbayes`
+================
+
+.. py:module:: gbayes
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   gbayes/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
